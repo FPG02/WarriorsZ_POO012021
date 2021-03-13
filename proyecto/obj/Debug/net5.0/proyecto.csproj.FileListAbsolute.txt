@@ -1,0 +1,16 @@
+C:\Users\FP12\Documents\WarriorsZ\proyecto\bin\Debug\net5.0\proyecto.exe
+C:\Users\FP12\Documents\WarriorsZ\proyecto\bin\Debug\net5.0\proyecto.deps.json
+C:\Users\FP12\Documents\WarriorsZ\proyecto\bin\Debug\net5.0\proyecto.runtimeconfig.json
+C:\Users\FP12\Documents\WarriorsZ\proyecto\bin\Debug\net5.0\proyecto.runtimeconfig.dev.json
+C:\Users\FP12\Documents\WarriorsZ\proyecto\bin\Debug\net5.0\proyecto.dll
+C:\Users\FP12\Documents\WarriorsZ\proyecto\bin\Debug\net5.0\ref\proyecto.dll
+C:\Users\FP12\Documents\WarriorsZ\proyecto\bin\Debug\net5.0\proyecto.pdb
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.csprojAssemblyReference.cache
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.AssemblyInfoInputs.cache
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.AssemblyInfo.cs
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.dll
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\ref\proyecto.dll
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.pdb
+C:\Users\FP12\Documents\WarriorsZ\proyecto\obj\Debug\net5.0\proyecto.genruntimeconfig.cache
