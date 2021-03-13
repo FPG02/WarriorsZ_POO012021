@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Example1
+namespace MultiplyNumbers
 {
     internal class Program1
     {
